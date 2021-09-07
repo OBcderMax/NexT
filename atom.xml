@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://obcdermax.github.io/NexT/</id>
+    <id>https://obcdermax.github.io/NexT/</id>
     <title>Gridea</title>
-    <updated>2021-09-07T05:15:59.142Z</updated>
+    <updated>2021-09-07T05:17:17.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://obcdermax.github.io/NexT/"/>
-    <link rel="self" href="https://https://obcdermax.github.io/NexT/atom.xml"/>
+    <link rel="alternate" href="https://obcdermax.github.io/NexT/"/>
+    <link rel="self" href="https://obcdermax.github.io/NexT/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://obcdermax.github.io/NexT/images/avatar.png</logo>
-    <icon>https://https://obcdermax.github.io/NexT/favicon.ico</icon>
+    <logo>https://obcdermax.github.io/NexT/images/avatar.png</logo>
+    <icon>https://obcdermax.github.io/NexT/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://obcdermax.github.io/NexT/post/hello-gridea/</id>
-        <link href="https://https://obcdermax.github.io/NexT/post/hello-gridea/">
+        <id>https://obcdermax.github.io/NexT/post/hello-gridea/</id>
+        <link href="https://obcdermax.github.io/NexT/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
